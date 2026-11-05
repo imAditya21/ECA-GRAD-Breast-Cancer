@@ -1,0 +1,20 @@
+# Core data science libraries
+numpy
+pandas
+scipy
+scikit-learn
+
+# Image processing
+Pillow
+
+# Visualization
+matplotlib
+seaborn
+
+# Explainability
+shap
+
+# Notebook environment
+jupyterlab
+ipykernel
+tqdm
