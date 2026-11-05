@@ -1,0 +1,46 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Model checkpoints and weights
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.keras
+
+# Dataset - do not upload BreakHis images
+BreaKHis_v1/
+BreakHis/
+dataset/
+datasets/
+data/
+
+# Training outputs and logs
+runs/
+logs/
+outputs/
+checkpoints/
+
+# Local environment and secrets
+.env
+*.env
+secrets.json
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE settings
+.vscode/
+.idea/
